@@ -1,6 +1,5 @@
-start
 
 
-# Full-Stack-Kanban-Board
+# Mern-Stack-Kanban-Board
 Developed Using ReactJS, NodeJS, MongoDB
 
