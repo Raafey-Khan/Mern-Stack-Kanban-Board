@@ -7,5 +7,4 @@ const assets = {
     secondary: '#292929'
   }
 }
-
 export default assets
